@@ -1,5 +1,9 @@
 version = 1
+<<<<<<< HEAD
 revision = 3
+=======
+revision = 5
+>>>>>>> 4c16aae (Add Bonsai 2 Manager and startup script)
 requires-python = ">=3.11, <3.13"
 resolution-markers = [
     "python_full_version >= '3.12' and sys_platform == 'win32'",

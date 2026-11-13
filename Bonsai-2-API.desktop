@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Bonsai 2 Yönetici
+Comment=Bonsai 2 yerel API sunucusunu yönet
+Exec=python3 /home/USER/AI/Bonsai-demo/bonsai_manager.py
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;Utility;
